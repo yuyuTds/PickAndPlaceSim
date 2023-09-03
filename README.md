@@ -1,0 +1,2 @@
+# PickAndPlaceSim
+TwinCATとFactoryIOを使用して、PickAndPlace装置のシミュレーションを行います
